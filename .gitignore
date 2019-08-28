@@ -1,2 +1,9 @@
 # VSCode
 .history
+
+# OneShot
+/OneShot/*
+!/OneShot/Data/
+/OneShot/Data/*
+!/OneShot/Data/Map001*
+!/OneShot/Data/Map258*
